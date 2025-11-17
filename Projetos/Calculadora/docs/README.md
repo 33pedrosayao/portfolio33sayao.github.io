@@ -59,6 +59,6 @@ python3 calc.py
 ```
 
 ### Obrigado por utilizar o meu projeto!
-```bash
+
 
 
